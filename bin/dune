@@ -1,0 +1,4 @@
+(executable
+ (public_name wrapped_example)
+ (name main)
+ (libraries wrapped_example))
